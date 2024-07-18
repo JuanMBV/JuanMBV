@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Juan Manuel Buenrostro Valenciano</h1>
 
-<!--
-**JuanMBV/JuanMBV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Hi I’m Juan, a junior full-stack developer with 4 months of work experience building applications and services in .NET for companies around Saltillo and 1 year of experience in Java technologies like Spring Framework and JPA Hibernate making projects for the university. Actually, I study the last subject of computer systems engineering in TEC Saltillo.
+</p>
 
-Here are some ideas to get you started:
+<h2>Tools</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py)](https://skillicons.dev)
+### 📖 Libraries / Frameworks
+[![My Skills](https://skillicons.dev/icons?i=astro,dotnet,electron,flask,react,spring,tailwind,vite)](https://skillicons.dev)
+### 💾 Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql)](https://skillicons.dev)
+### ☁️ DevOps / Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+### 💼 Others
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
