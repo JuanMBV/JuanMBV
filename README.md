@@ -1,7 +1,9 @@
 <h1>Juan Manuel Buenrostro Valenciano</h1>
 
 <p>
-  Hi I’m Juan, a junior full-stack developer with 4 months of work experience building applications and services in .NET for companies around Saltillo and 1 year of experience in Java technologies like Spring Framework and JPA Hibernate making projects for the university. Actually, I study the last subject of computer systems engineering in TEC Saltillo.
+  Hi im Juan a full-stack developer with 1+ year experience building aplications and 
+  services in .NET for companies arround Saltillo and in Java technologies like Spring 
+  Framework and Oracle PL/SQL in development and maintance financial systems.
 </p>
 
 <h2>Tools</h2>
@@ -13,6 +15,6 @@
 ### 💾 Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql)](https://skillicons.dev)
 ### ☁️ DevOps / Cloud
-[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins)](https://skillicons.dev)
 ### 💼 Others
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
